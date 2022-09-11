@@ -1,0 +1,6 @@
+*venv/
+*vscode/
+*OUTPUT/*
+*video/*
+*WEIGHT/*
+*__pycache__*
